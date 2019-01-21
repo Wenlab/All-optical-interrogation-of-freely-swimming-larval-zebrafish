@@ -1,3 +1,9 @@
 [submodule "Tracking-system-for-larval-zebrafish"]
 	path = Tracking-system-for-larval-zebrafish
 	url = https://github.com/Wenlab/Tracking-system-for-larval-zebrafish
+[submodule "ZebrafishAutofocus"]
+	path = ZebrafishAutofocus
+	url = https://github.com/Wenlab/ZebrafishAutofocus
+[submodule "galvo-optogenetic-system"]
+	path = galvo-optogenetic-system
+	url = https://github.com/Wenlab/galvo-optogenetic-system
