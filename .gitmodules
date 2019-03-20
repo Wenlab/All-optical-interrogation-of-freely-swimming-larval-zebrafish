@@ -12,3 +12,6 @@
 	url = https://github.com/Wenlab/Zebrafish-Fluorescent-imaging
 
 
+[submodule "Remote-control-paramecium"]
+	path = Remote-control-paramecium
+	url = https://github.com/Wenlab/Remote-control-paramecium
