@@ -15,3 +15,7 @@
 [submodule "Remote-control-paramecium"]
 	path = Remote-control-paramecium
 	url = https://github.com/Wenlab/Remote-control-paramecium
+	
+[submodule "Zebrafish-Infrared-imaging"]
+	path = Zebrafish-Infrared-imaging
+	url = https://github.com/Wenlab/Zebrafish-Infrared-imaging
