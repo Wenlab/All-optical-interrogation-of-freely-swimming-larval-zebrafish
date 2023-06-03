@@ -19,3 +19,6 @@
 [submodule "Zebrafish-Infrared-imaging"]
 	path = Zebrafish-Infrared-imaging
 	url = https://github.com/Wenlab/Zebrafish-Infrared-imaging
+[submodule "Larval-zebrafish-tracking"]
+	path = Larval-zebrafish-tracking
+	url = https://github.com/Wenlab/Larval-zebrafish-tracking
