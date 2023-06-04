@@ -22,3 +22,6 @@
 [submodule "Larval-zebrafish-tracking"]
 	path = Larval-zebrafish-tracking
 	url = https://github.com/Wenlab/Larval-zebrafish-tracking
+[submodule "Online-Zebrafish-Optogenetics-System"]
+	path = Online-Zebrafish-Optogenetics-System
+	url = https://github.com/Wenlab/Online-Zebrafish-Optogenetics-System
