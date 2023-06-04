@@ -25,3 +25,6 @@
 [submodule "Online-Zebrafish-Optogenetics-System"]
 	path = Online-Zebrafish-Optogenetics-System
 	url = https://github.com/Wenlab/Online-Zebrafish-Optogenetics-System
+[submodule "Online-Zebrafish-Optogenetic-System"]
+	path = Online-Zebrafish-Optogenetic-System
+	url = https://github.com/Wenlab/Online-Zebrafish-Optogenetic-System
