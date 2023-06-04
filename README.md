@@ -10,6 +10,8 @@ The code collection here, together with hardware design described in the [paper]
 
 You can find how to use the code in the README of each submodule.
 
-*__The submodule doesn't update automatically. So you may use the following links to access the latest repositories of the whole project.__*\
+*__The submodule doesn't update automatically. So you may use the following links to access the latest repositories of the whole project.__*
+
 [Larval-zebrafish-tracking](https://github.com/Wenlab/Larval-zebrafish-tracking/tree/master)
 
+[Online-Zebrafish-Optogenetics-System](https://github.com/Wenlab/Online-Zebrafish-Optogenetics-System/tree/main)
