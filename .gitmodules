@@ -28,3 +28,6 @@
 [submodule "Online-Zebrafish-Optogenetic-System"]
 	path = Online-Zebrafish-Optogenetic-System
 	url = https://github.com/Wenlab/Online-Zebrafish-Optogenetic-System
+[submodule "Dual-Color-Image-Processing"]
+	path = Dual-Color-Image-Processing
+	url = https://github.com/Wenlab/Dual-Color-Image-Processing
