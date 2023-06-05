@@ -12,7 +12,7 @@ You can find how to use the code in the README of each submodule.
 
 *__The submodule doesn't update automatically. So you may use the following links to access the latest repositories of the whole project.__*
 
-[Larval-zebrafish-tracking](https://github.com/Wenlab/Larval-zebrafish-tracking/tree/master)
+[Larval-Zebrafish-Tracking](https://github.com/Wenlab/Larval-Zebrafish-Tracking/tree/master)
 
 [Dual-Color-Image-Processing](https://github.com/Wenlab/Dual-Color-Image-Processing)
 
