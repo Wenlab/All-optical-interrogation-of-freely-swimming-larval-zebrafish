@@ -1,30 +1,6 @@
-[submodule "Tracking-system-for-larval-zebrafish"]
-	path = Tracking-system-for-larval-zebrafish
-	url = https://github.com/Wenlab/Tracking-system-for-larval-zebrafish
-[submodule "ZebrafishAutofocus"]
-	path = ZebrafishAutofocus
-	url = https://github.com/Wenlab/ZebrafishAutofocus
-[submodule "galvo-optogenetic-system"]
-	path = galvo-optogenetic-system
-	url = https://github.com/Wenlab/galvo-optogenetic-system
-[submodule "Zebrafish-Fluorescent-imaging"]
-	path = Zebrafish-Fluorescent-imaging
-	url = https://github.com/Wenlab/Zebrafish-Fluorescent-imaging
-
-
-[submodule "Remote-control-paramecium"]
-	path = Remote-control-paramecium
-	url = https://github.com/Wenlab/Remote-control-paramecium
-	
-[submodule "Zebrafish-Infrared-imaging"]
-	path = Zebrafish-Infrared-imaging
-	url = https://github.com/Wenlab/Zebrafish-Infrared-imaging
 [submodule "Larval-zebrafish-tracking"]
 	path = Larval-zebrafish-tracking
 	url = https://github.com/Wenlab/Larval-zebrafish-tracking
-[submodule "Online-Zebrafish-Optogenetics-System"]
-	path = Online-Zebrafish-Optogenetics-System
-	url = https://github.com/Wenlab/Online-Zebrafish-Optogenetics-System
 [submodule "Online-Zebrafish-Optogenetic-System"]
 	path = Online-Zebrafish-Optogenetic-System
 	url = https://github.com/Wenlab/Online-Zebrafish-Optogenetic-System
