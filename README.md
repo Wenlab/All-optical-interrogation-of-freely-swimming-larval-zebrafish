@@ -14,4 +14,7 @@ You can find how to use the code in the README of each submodule.
 
 [Larval-zebrafish-tracking](https://github.com/Wenlab/Larval-zebrafish-tracking/tree/master)
 
+[Dual-Color-Image-Processing](https://github.com/Wenlab/Dual-Color-Image-Processing)
+
 [Online-Zebrafish-Optogenetic-System](https://github.com/Wenlab/Online-Zebrafish-Optogenetic-System/tree/main)
+
